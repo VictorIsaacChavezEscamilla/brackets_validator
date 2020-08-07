@@ -5,3 +5,5 @@
 /brackets_validator/.vs/
 /brackets_validator/brackets_validator/obj
 /brackets_validator/brackets_validator.Test/obj
+/brackets_validator/brackets_validator/bin/Debug/netcoreapp3.1
+/brackets_validator/brackets_validator.Test/bin/Debug/netcoreapp3.1
