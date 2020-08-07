@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/brackets_validator/.vs/
+/brackets_validator/brackets_validator/obj
+/brackets_validator/brackets_validator.Test/obj
